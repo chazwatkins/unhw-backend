@@ -1,0 +1,25 @@
+{
+  "name": "uwnh-backend",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chazwatkins/uwnh-backend.git"
+  },
+  "author": "Chaz Watkins <chazwatkins@hey.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chazwatkins/uwnh-backend/issues"
+  },
+  "homepage": "https://github.com/chazwatkins/uwnh-backend#readme",
+  "dependencies": {
+    "laravel-echo": "^1.16.0",
+    "phoenix": "^1.7.11",
+    "pusher-js": "^8.4.0-rc2"
+  }
+}
